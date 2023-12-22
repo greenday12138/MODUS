@@ -20,7 +20,7 @@ from macad_gym.viz.logger import LOG
 from macad_gym.core.simulator.carla_provider import CarlaError
 from macad_gym.core.utils.wrapper import (fill_action_param, recover_steer, Action, 
     SpeedState, Truncated)
-from algs.psac import P_SAC
+from algs.mapsac import P_SAC
 os.environ['PYTHONWARNINGS'] = 'ignore:semaphore_tracker:UserWarning'
 
 # neural network hyper parameters

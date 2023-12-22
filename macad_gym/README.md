@@ -2,10 +2,7 @@
 [MACAD-Gym](https://arxiv.org/abs/1911.04175) is a training platform for Multi-Agent Connected Autonomous
  Driving (MACAD) built on top of the CARLA Autonomous Driving simulator.
 
-MACAD-Gym provides OpenAI Gym-compatible learning environments for various
-driving scenarios for training Deep RL algorithms in homogeneous/heterogenous,
-communicating/non-communicating and other multi-agent settings. New environments and scenarios
- can be easily added using a simple, JSON-like configuration.
+MACAD-Gym provides OpenAI Gym-compatible learning environments for various driving scenarios for training Deep RL algorithms in homogeneous/heterogenous, communicating/non-communicating and other multi-agent settings. New environments and scenarios can be easily added using a simple, JSON-like configuration.
 
 [![PyPI version fury.io](https://badge.fury.io/py/macad-gym.svg)](https://pypi.python.org/pypi/macad-gym/)
 [![PyPI format](https://img.shields.io/pypi/pyversions/macad-gym.svg)](https://pypi.python.org/pypi/macad-gym/)
